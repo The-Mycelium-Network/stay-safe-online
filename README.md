@@ -11,3 +11,11 @@ The below four VPN services were suggested here - https://medium.com/s/the-firew
 * [IBVPN](http://bit.ly/VPN-IB) ~ In Gabraltar
 
 Choosing a VPN - [That Privacy Site](https://thatoneprivacysite.net/choosing-the-best-vpn-for-you/)
+
+## Web Browsers
+
+* [Tor Browser](https://www.torproject.org/projects/torbrowser.html)
+* [Firefox Focus](https://www.mozilla.org/en-US/firefox/mobile/)
+* [Firefox](https://www.mozilla.org/en-US/firefox/)
+* [Chrome](https://www.google.com/intl/en/chrome/browser/)
+* [Brave](https://www.brave.com/)
