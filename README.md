@@ -30,3 +30,11 @@ Choosing a VPN - [That Privacy Site](https://thatoneprivacysite.net/choosing-the
 ## Password Manager
 
 * [1Password](https://1password.com/)
+
+## Know Your Digital Footprint
+
+### Data Selfie
+
+Data Selfie is a browser extension that tracks you while you are on Facebook to show you your own data traces and reveal what machine learning algorithms could predict about your personality based on that data.
+
+[Website](http://www.dataselfie.it/#/)
