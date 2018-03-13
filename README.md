@@ -38,3 +38,13 @@ Choosing a VPN - [That Privacy Site](https://thatoneprivacysite.net/choosing-the
 Data Selfie is a browser extension that tracks you while you are on Facebook to show you your own data traces and reveal what machine learning algorithms could predict about your personality based on that data.
 
 [Website](http://www.dataselfie.it/#/)
+
+## Secure Your Device and Operating System
+
+* [iOS Privacy tips](https://spreadprivacy.com/iphone-privacy-tips/) from DuckDuckGo
+* [Android Privacy tips](https://spreadprivacy.com/android-privacy-tips/) from DuckDuckGo
+* [MacOS privacy tips](https://spreadprivacy.com/mac-privacy-tips/) from DuckDuckGo
+* [Windows 10 privacy tips](https://spreadprivacy.com/windows-10-privacy-tips/) from DuckDuckGo
+* [Windows 7 privacy tips](https://spreadprivacy.com/windows-7-privacy-tips/) from DuckDuckGo
+* [Linux privacy tips](https://spreadprivacy.com/linux-privacy-tips/) from DuckDuckGo
+* [General tips](https://spreadprivacy.com/device-privacy-protection/) from DuckDuckGo
