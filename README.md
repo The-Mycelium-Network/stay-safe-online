@@ -39,10 +39,14 @@ Data Selfie is a browser extension that tracks you while you are on Facebook to 
 
 [Website](http://www.dataselfie.it/#/)
 
-## Secure Your Device and Operating System
+## Secure Your Device
 
 * [iOS Privacy tips](https://spreadprivacy.com/iphone-privacy-tips/) from DuckDuckGo
 * [Android Privacy tips](https://spreadprivacy.com/android-privacy-tips/) from DuckDuckGo
+* [How to Turn Off Location Services on Your Smartphone](https://www.consumerreports.org/privacy/how-to-turn-off-location-services-on-your-smartphone/)
+
+## Secure Your Operating System
+
 * [MacOS privacy tips](https://spreadprivacy.com/mac-privacy-tips/) from DuckDuckGo
 * [Windows 10 privacy tips](https://spreadprivacy.com/windows-10-privacy-tips/) from DuckDuckGo
 * [Windows 7 privacy tips](https://spreadprivacy.com/windows-7-privacy-tips/) from DuckDuckGo
