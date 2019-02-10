@@ -1,0 +1,37 @@
+{
+  "name": "stay-safe-online",
+  "version": "1.0.0",
+  "description": "Resources that helps everyone stay safe online",
+  "main": "./src/index.html",
+  "scripts": {
+    "build": "parcel build src/index.html",
+    "dev:parcel": "parcel src/index.html",
+    "format": "prettier --write \"src/**/*.{js,css,json}\"",
+    "format:check": "prettier --list-different \"src/**/*.{js,css,json}\"",
+    "lint": "eslint \"src/**/*.js\"",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThirdWorldProblems/stay-safe-online.git"
+  },
+  "keywords": [
+    "civic-tech",
+    "privacy",
+    "security",
+    "resources"
+  ],
+  "author": "ThirdWorldProblems",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThirdWorldProblems/stay-safe-online/issues"
+  },
+  "homepage": "https://github.com/ThirdWorldProblems/stay-safe-online#readme",
+  "devDependencies": {
+    "eslint": "5.13.0",
+    "eslint-config-prettier": "4.0.0",
+    "eslint-plugin-prettier": "3.0.1",
+    "parcel-bundler": "1.11.0",
+    "prettier": "1.16.3"
+  }
+}

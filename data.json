@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Private Internet Access",
+    "url": "https://www.privateinternetaccess.com/",
+    "topic": "vpn"
+  },
+  {
+    "name": "My Private Network",
+    "url": "https://www.my-private-network.co.uk/",
+    "topic": "vpn"
+  },
+  {
+    "name": "NordVPN",
+    "url": "https://nordvpn.com/",
+    "topic": "vpn"
+  },
+  {
+    "name": "CactusVPN",
+    "url": "https://www.cactusvpn.com/",
+    "topic": "vpn"
+  },
+  {
+    "name": "Invisible Browsing VPN",
+    "url": "https://www.ibvpn.com/",
+    "topic": "vpn"
+  },
+  {
+    "name": "Tor Browser",
+    "url": "https://www.torproject.org/projects/torbrowser.html",
+    "topic": "browser"
+  },
+  {
+    "name": "Firefox Focus",
+    "url": "https://www.mozilla.org/en-US/firefox/mobile/",
+    "topic": "browser"
+  },
+  {
+    "name": "Firefox",
+    "url": "https://www.mozilla.org/en-US/firefox/",
+    "topic": "browser"
+  },
+  {
+    "name": "Safari",
+    "url": "https://www.apple.com/safari/",
+    "topic": "browser"
+  },
+  {
+    "name": "Brave",
+    "url": "https://brave.com/",
+    "topic": "browser"
+  },
+  {
+    "name": "General",
+    "url": "https://spreadprivacy.com/device-privacy-protection/",
+    "topic": "operating-system"
+  },
+  {
+    "name": "macOS",
+    "url": "https://spreadprivacy.com/mac-privacy-tips/",
+    "topic": "operating-system"
+  },
+  {
+    "name": "Windows 10",
+    "url": "https://spreadprivacy.com/windows-10-privacy-tips/",
+    "topic": "operating-system"
+  },
+  {
+    "name": "Windows 7",
+    "url": "https://spreadprivacy.com/windows-7-privacy-tips/",
+    "topic": "operating-system"
+  },
+  {
+    "name": "Linux",
+    "url": "https://spreadprivacy.com/linux-privacy-tips/",
+    "topic": "operating-system"
+  },
+  {
+    "name": "Privacy Badger",
+    "url": "https://www.eff.org/privacybadger",
+    "topic": "extensions"
+  },
+  {
+    "name": "Ghostery",
+    "url": "https://www.ghostery.com/",
+    "topic": "extensions"
+  },
+  {
+    "name": "uBlock Origin",
+    "url": "https://www.ublock.org/",
+    "topic": "extensions"
+  },
+  {
+    "name": "HTTPS Everywhere",
+    "url": "https://www.eff.org/https-everywhere",
+    "topic": "extensions"
+  },
+  {
+    "name": "1Password",
+    "url": "https://1password.com/",
+    "topic": "password-manager"
+  },
+  {
+    "name": "Buttercup",
+    "url": "https://github.com/buttercup",
+    "topic": "password-manager"
+  },
+  {
+    "name": "Firefox Lockbox",
+    "url": "https://lockbox.firefox.com/",
+    "topic": "password-manager"
+  },
+  {
+    "name": "iOS Privacy Tips",
+    "url": "https://spreadprivacy.com/iphone-privacy-tips/",
+    "topic": "device-security"
+  },
+  {
+    "name": "Android Privacy Tips",
+    "url": "https://spreadprivacy.com/android-privacy-tips/",
+    "topic": "device-security"
+  },
+  {
+    "name": "Turn off location services",
+    "url": "https://www.consumerreports.org/privacy/how-to-turn-off-location-services-on-your-smartphone/",
+    "topic": "device-security"
+  },
+  {
+    "name": "Facebook Container",
+    "url": "https://www.mozilla.org/en-US/firefox/facebookcontainer/",
+    "topic": "social-media"
+  },
+  {
+    "name": "HeartMOB - End online harassment",
+    "url": "https://iheartmob.org/",
+    "topic": "social-media"
+  },
+  {
+    "name": "HollaBack",
+    "url": "https://www.ihollaback.org/",
+    "topic": "social-media"
+  }
+]
