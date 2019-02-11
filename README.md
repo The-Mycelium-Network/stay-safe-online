@@ -2,7 +2,9 @@
 
 Resources that helps everyone stay safe online
 
-## Icons
+# Contributing
+
+## Icons used on the webpage
 
 Thanks to the following people for licensing their designs under a Creative Commons license.
 
