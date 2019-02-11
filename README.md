@@ -4,6 +4,8 @@ Resources that helps everyone stay safe online
 
 # Contributing
 
+Interested in contributing? [Read our docs](https://github.com/ThirdWorldProblems/stay-safe-online/blob/master/CONTRIBUTING.md) - Thank you!
+
 ## Icons used on the webpage
 
 Thanks to the following people for licensing their designs under a Creative Commons license.
