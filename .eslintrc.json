@@ -1,4 +1,12 @@
 {
+  "rules": {
+    "no-console": [
+      "error",
+      {
+        "allow": ["error", "info"]
+      }
+    ]
+  },
   "extends": ["eslint:recommended", "prettier"],
   "parserOptions": {
     "ecmaVersion": 2018,
