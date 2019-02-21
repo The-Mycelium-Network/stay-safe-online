@@ -4,9 +4,8 @@
   "description": "Resources that helps everyone stay safe online",
   "main": "./src/index.html",
   "scripts": {
-    "build": "npm-run-all prod:parcel post-process",
     "dev:parcel": "parcel src/index.html",
-    "prod:parcel": "parcel build src/index.html --out-dir docs/",
+    "prod:parcel": "parcel build src/index.html --out-dir docs/ --public-url \"/stay-safe-online/\"",
     "post-process": "node ./lib/simple-postprocessor",
     "format": "prettier --write \"src/**/*.{js,css,json}\"",
     "format:check": "prettier --list-different \"src/**/*.{js,css,json}\"",

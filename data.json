@@ -95,6 +95,11 @@
     "topic": "extensions"
   },
   {
+    "name": "Terms of Service;Did’t Read",
+    "url": "https://tosdr.org/",
+    "topic": "extensions"
+  },
+  {
     "name": "1Password",
     "url": "https://1password.com/",
     "topic": "password-manager"
